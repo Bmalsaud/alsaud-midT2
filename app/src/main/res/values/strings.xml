@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">alsaud-midT2</string>
+    <string name="name">Name:</string>
+    <string name="surname">SURNAME:</string>
+    <string name="id">ID:</string>
+    <string name="nationalID">NATIONAL ID NUMBER</string>
+    <string name="bttninsert">INSERT</string>
+    <string name="bttnSecondAct">Go To Second Activity</string>
+    <string name="bttnThirdAct">Go To Third Activity</string>
+</resources>
